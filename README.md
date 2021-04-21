@@ -7,3 +7,5 @@ This application is a copyright management system built on the Ethereum blockcha
 ### Demo App
 
 Click [here](crypto_frontend/index.html) to launch the CryptoRight application.
+
+https://promisinghan.github.io/cryptoright/
